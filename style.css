@@ -143,3 +143,13 @@ ul {
   padding: 100px 0;
   margin: 0 200px;
 }
+
+.action-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #d08f82;
+  border-radius: 8px;
+  margin: 0 50px;
+  padding: 50px;
+}
