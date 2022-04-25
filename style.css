@@ -68,3 +68,9 @@ ul {
   list-style: none;
   gap: 24px;
 }
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px 200px;
+}
