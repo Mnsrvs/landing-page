@@ -12,3 +12,9 @@ body {
 .header, .footer {
   background-color: #1d1b16;
 }
+
+.hero-title {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
