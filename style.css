@@ -102,3 +102,8 @@ ul {
   justify-content: center;
   gap: 32px;
 }
+
+.items {
+  width: 170px;
+  text-align: center;
+}
