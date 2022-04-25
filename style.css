@@ -119,3 +119,7 @@ ul {
   flex-direction: column;
   padding: 100px 0;
 }
+
+.quote-container {
+  margin: 0 360px;
+}
