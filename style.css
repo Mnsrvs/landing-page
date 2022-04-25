@@ -49,3 +49,9 @@ body {
   height: auto;
   width: 600px;
 }
+
+.image-1 {
+  height: auto;
+  width: 170px;
+  border-radius: 8px;
+}
