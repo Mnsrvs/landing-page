@@ -1,4 +1,3 @@
-# landing-page
 credits to tumgir.com and anitrendz.net for providing the image that is used in this project!
 
 image link:
