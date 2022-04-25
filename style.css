@@ -130,3 +130,11 @@ ul {
   font-style: italic;
   color: #1f2937;
 }
+
+.author {
+  color: #1f2937;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: end;
+  margin-right: 40px;
+}
