@@ -32,3 +32,15 @@ body {
   font-size: 24px;
   color: #f9faf8;
 }
+
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #d08f82;
+  color: #f9faf8;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 32px;
+}
