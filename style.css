@@ -78,3 +78,7 @@ ul {
 .hero-content {
   width: 450px;
 }
+
+.hero-text {
+  margin-bottom: 8px;
+}
